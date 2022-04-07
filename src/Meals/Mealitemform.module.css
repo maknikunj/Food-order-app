@@ -1,0 +1,30 @@
+.form {
+    text-align: right;
+  }
+  
+  .buttondesign {
+    font: inherit;
+    cursor: pointer;
+    background-color: #8a2b06;
+    border: 1px solid #8a2b06;
+    color:white;
+    padding: 0.25rem 2rem;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+
+  .actions input{
+    width: 30px;
+    height: auto;
+    font-size: 1rem;
+  }
+
+  .label{
+    margin-right: 1.8pc;
+  }
+  
+  .buttondesign:hover,
+  .buttondesign:active {
+    background-color: #641e03;
+    border-color: #641e03;
+  }
